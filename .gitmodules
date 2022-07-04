@@ -1,0 +1,3 @@
+[submodule "oslap"]
+	path = oslap
+	url = https://github.com/sujitkongu/oslap.git
